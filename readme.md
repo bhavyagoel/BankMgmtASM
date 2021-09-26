@@ -31,3 +31,8 @@ wine main.exe
 - EMU8086
 - MASM
 - Wine
+
+
+
+#### WARNING
+Execute the CODE/ DOSBOX in FULLSCREEN
